@@ -91,7 +91,8 @@ Example using new provider and chain ID (Binance Smart Chain):
 
 Here is a demo video of the installation process. For this:
 
-- I'm using a VPS, so replace `localhost` withe my VPS IP address for the exit URL. You won't need to do this if you are running RPCh locally on your terminal.
+- I'm using a VPS, so replace `localhost` with
+-  my VPS IP address for the exit URL. You won't need to do this if you are running RPCh locally on your terminal.
 - I donwload the server using the `Docker Pull` command from the pop-up. This is an optional step that you can skip.
 
 <p align="center" style={{"marginRight": "100px", "marginTop": "20px", "marginBottom": "20px"}}>
